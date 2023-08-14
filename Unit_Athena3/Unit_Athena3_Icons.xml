@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Author: Cldmy-->
+<GameData>
+  <!-- For simplicity sake, we're going to reuse existing icons. -->
+  <IconDefinitions>
+    <!-- This is the unit icon for the unit. -->
+	<Row Name="ICON_UNIT_ATHENA3" Atlas="ICON_ATLAS_EXPANSION_1_UNITS" Index="8"/>
+
+    <!-- This is the portrait of the unit. -->
+	<Row Name="ICON_UNIT_ATHENA3_PORTRAIT" Atlas="ICON_ATLAS_EXPANSION_1_UNIT_PORTRAITS" Index="8"/>
+
+    <!-- Ethnic specific portrait of the unit.  This changes based on the leader. -->
+    <Row Name="ICON_ETHNICITY_ASIAN_UNIT_ATHENA3_PORTRAIT" Atlas="ICON_ATLAS_ASIAN_UNIT_PORTRAITS" Index="1"/>
+    <Row Name="ICON_ETHNICITY_MEDIT_UNIT_ATHENA3_PORTRAIT" Atlas="ICON_ATLAS_MEDITERRANEAN_UNIT_PORTRAITS" Index="1"/>
+    <Row Name="ICON_ETHNICITY_SOUTHAM_UNIT_ATHENA3_PORTRAIT" Atlas="ICON_ATLAS_SOUTH_AMERICAN_UNIT_PORTRAITS" Index="1"/>
+    <Row Name="ICON_ETHNICITY_AFRICAN_UNIT_ATHENA3_PORTRAIT" Atlas="ICON_ATLAS_AFRICAN_UNIT_PORTRAITS" Index="1"/>
+  </IconDefinitions>
+</GameData>

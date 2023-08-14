@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Author: Cldmy-->
+<GameData>
+  <LocalizedText>
+    <!-- The name of the unit. -->
+    <Row Tag="LOC_UNIT_ATHENA3_NAME" Language="en_US">
+      <Text>Athena-3</Text>
+    </Row>
+
+    <!-- Description for Athena-3 in English. -->
+    <Row Tag="LOC_UNIT_ATHENA3_DESCRIPTION" Language="en_US">
+      <Text>Veritas unique atomic era support unit that replaces the Drone. A spherical drone equipped with an artificial intelligence that always hovers around Hare. It can learn from its own experiences, though it often works in the exact opposite of the intention of its master. Adds +2 [ICON_Movement]Movement to Modern, Atomic, and Information era units within 3 tiles and +2 [ICON_Range]Range and +10 [ICON_Bombard]Bombard Strength to adjacent Siege class units.</Text>
+    </Row>
+
+	<Row Tag="LOC_UNIT_ATHENA3_NAME" Language="zh_Hans_CN">
+		<Text>雅典娜3号</Text>
+	</Row>
+
+	<!-- Description for Athena-3 in Chinese -->
+	<Row Tag="LOC_UNIT_ATHENA3_DESCRIPTION" Language="zh_Hans_CN">
+		<Text>真理部特殊单位，造价更低，替代无人机。总是在晴周围活动的球形无人机，具有与语音识别系统和AI算法，能够处理认知问题，但经常与主人晴的意图完全相反。为3单元格内的现代、原子能时代、和信息时代单位+2[ICON_Movement]移动力、以及相邻的攻城类单位+2[ICON_Range]射程、+10[ICON_Bombard]炮击攻击力。</Text>
+	</Row>  
+	  
+	  
+  </LocalizedText>
+</GameData>
